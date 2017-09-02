@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MakeYouKnow</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">评价我们！</string>
+    <string name="zhihu_latest">最新消息</string>
+    <string name="zhihu_hot">热点消息</string>
+    <string name="date_picker_title">日期</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="network_error">网络走丢了…点击重试</string>
+    <string name="refresh">刷新</string>
+    <string name="action_open_in_browser">在浏览器中打开</string>
+
+
+    <string name="not_found_browser">没有找到浏览器！</string>
+
+    <string name="unmark">你做了一个英明的决定</string>
+    <string name="marked">再来瞅瞅嘛</string>
+</resources>

@@ -1,0 +1,27 @@
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/isMarked"
+        android:title="@string/unmark"
+        android:icon="@drawable/ic_star_black_24dp"
+        android:tint="@color/textColorPrimary"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/share"
+        android:title="share"
+        android:icon="@drawable/share"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/openInBrowser"
+        android:title="db"
+        android:icon="@drawable/ic_open_in_browser_black_24dp"
+        app:showAsAction="ifRoom" />
+
+
+
+</menu>

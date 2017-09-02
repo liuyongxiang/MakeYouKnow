@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@android:drawable/ic_menu_agenda"
+            android:title="首页"/>
+
+
+        <item
+            android:id="@+id/nav_networkSafety"
+            android:icon="@android:drawable/ic_lock_lock"
+            android:title="网络安全"/>
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@android:drawable/ic_menu_view"
+            android:title="趣闻百科"/>
+
+        <item
+            android:id="@+id/nav_gym"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="体育新闻"/>
+
+        <item
+            android:id="@+id/nav_economy"
+            android:icon="@android:drawable/ic_menu_mapmode"
+            android:title="财经焦点"/>
+        <item
+            android:id="@+id/nav_change"
+            android:icon="@android:drawable/ic_menu_slideshow"
+            android:title="切换主题"/>
+
+        <item
+            android:id="@+id/nav_cache"
+            android:icon="@android:drawable/ic_menu_save"
+            android:title="查看缓存"/>
+        <item
+            android:id="@+id/nav_collect"
+            android:icon="@android:drawable/btn_star"
+            android:title="查看收藏"/>
+
+    </group>
+
+</menu>
